@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|c:\\users\\j.cano\\source\\repos\\portafolio\\portafolio\\views\\home\\_presentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|c:\\users\\j.cano\\source\\repos\\portafolio\\portafolio\\views\\home\\_projectssection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_projectssection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|c:\\users\\j.cano\\source\\repos\\portafolio\\portafolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|c:\\users\\j.cano\\source\\repos\\portafolio\\portafolio\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|c:\\users\\j.cano\\source\\repos\\portafolio\\portafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD692020-604A-4C95-BC78-007D6A5B0D79}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Presentation.cshtml",
+              "DocumentMoniker": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Presentation.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_Presentation.cshtml",
+              "ToolTip": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_Presentation.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_Presentation.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:52:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ProjectsSection.cshtml",
+              "DocumentMoniker": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ProjectsSection.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ProjectsSection.cshtml",
+              "ToolTip": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ProjectsSection.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_ProjectsSection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:51:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:51:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:51:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Models\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "Portafolio\\Models\\HomeIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:50:49.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿body {
+}
+
+
+#myPicture {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 50%;
+    
+}
+
+.welcome-section{
+    margin: 5rem 0 10rem 0;
+    color:white;
+}
+
+.welcome-section  h1{
+    margin-bottom: 1rem;
+    
+}
+
+    .welcome-section p {
+        
+        line-height: 1.5;
+        font-size: 1.25rem;
+    }
+
+#dotnet-image{
+    width: 500px;
+    height: 220px;
+}
+
+.headers {
+    font-weight: bold;
+    color: #3AA6B9;
+}
+
+.skills ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+
+.skills i {
+    color: #3AA6B9;
+    font-size: 50px;
+}
