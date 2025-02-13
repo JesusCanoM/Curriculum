@@ -119,23 +119,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\j.cano\\.nuget\\packages\\": {},
+    "C:\\Users\\Jesus\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+      "projectUniqueName": "C:\\Users\\Jesus\\Documentos\\Cv\\Curriculum\\Portafolio\\Portafolio.csproj",
       "projectName": "Portafolio",
-      "projectPath": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
-      "packagesPath": "C:\\Users\\j.cano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\j.cano\\source\\repos\\Portafolio\\Portafolio\\obj\\",
+      "projectPath": "C:\\Users\\Jesus\\Documentos\\Cv\\Curriculum\\Portafolio\\Portafolio.csproj",
+      "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jesus\\Documentos\\Cv\\Curriculum\\Portafolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\j.cano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

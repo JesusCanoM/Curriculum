@@ -1,31 +1,67 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    Para obtener más información sobre cómo habilitar MVC en proyectos vacíos, visita https://go.microsoft.com/fwlink/?LinkID=397860
 *@
+
 @{
 }
 
+<div class="container mt-5 text-center">
+    <h1 class="display-4 fw-bold">Soy Jesús Armando Cano Meraz (25 años)</h1>
+    <h2 class="text-muted">Desarrollador Full Stack especializado en tecnologías .NET</h2>
 
-<div class="text-center">
-    <h1 class="display-4">I'm Jesus Armando Cano Meraz (25 years old)</h1>
-
-    <h2>Hello, I'm a full stack developer specialized in .NET technologies</h2>
-
-    <img id="myPicture" src="~/Images/Mypicture.png" alt="SalmaPicture" />
-
+    <img id="myPicture" src="~/Images/Mypicture.png" alt="Foto de Jesús Armando Cano Meraz" class="img-fluid rounded-circle shadow-lg mt-4" style="width: 200px; height: 200px; object-fit: cover;" />
 </div>
 
-
-<div class="text-center">
-    <img id="dotnet-image" src="~/Images/dotnetlogo.png" alt="dotnet logo" />
+<!-- Logos de Tecnologías -->
+<div class="container text-center mt-5">
+    <h3 class="fw-bold">Especializado en múltiples tecnologías</h3>
+    <div class="d-flex justify-content-center align-items-center flex-wrap gap-3 mt-4">
+        <img src="~/Images/dotnetlogo.png" alt="Logo .NET" class="tech-logo" />
+        <img src="~/Images/pythonlogo.png" alt="Python" class="tech-logo" />
+        <img src="~/Images/reactlogo.png" alt="React" class="tech-logo" />
+        <img src="~/Images/angularlogo.png" alt="Angular" class="tech-logo" />
+    </div>
 </div>
 
-<div class="row justify-content-center text-center" style="background-color: #3AA6B9;">
-    <div class="col col-md-7 welcome-section">
-        <h1>
-            Welcome to my portfolio.
-        </h1>
-        <p>
-            I'm an IT Engineer focused on the development and management of software area. Throughout my studies I have demonstrated motivation and commitment to achieve my academic objectives, for that reason I want to put into practice the knowledge  I have acquired and thus continue learning new skills in a work environment. I have been programming since 2019 and I have worked mainly with tools such as C#/ASP .NET, SQL Serve, Entity Framework, JavaScript among others.
+<!-- Sección de Bienvenida -->
+<div class="row justify-content-center text-center shadow-lg p-5 rounded mt-5" style="background: linear-gradient(135deg, #1E2A38, #3AA6B9); color: white;">
+    <div class="col-md-7 welcome-section">
+        <h1 class="fw-bold">Bienvenido a mi portafolio</h1>
+        <p class="fs-5">
+            Soy un Ingeniero en Tecnologías de la Información con <strong>3 años de experiencia</strong> en desarrollo y gestión de software. Durante este tiempo, he trabajado en diversas áreas del desarrollo, destacándome tanto en el <strong>Back-End como en el Front-End</strong>.
+        </p>
+        <p class="fs-5">
+            Mi trayectoria comenzó en 2021, y desde entonces he trabajado con herramientas y tecnologías como <strong>C#, ASP.NET, SQL Server, Entity Framework, JavaScript, React, Angular, Node.js, Laravel y Python</strong>. Siempre estoy en constante aprendizaje y buscando nuevas tecnologías para mejorar mis habilidades y optimizar el desarrollo de software.
         </p>
     </div>
 </div>
+
+<!-- Sección de LinkedIn -->
+<div class="container text-center mt-5">
+    <h3 class="fw-bold">Conéctate conmigo en LinkedIn</h3>
+    <div class="d-flex justify-content-center align-items-center mt-4">
+        <a href="https://www.linkedin.com/in/jesuscanom/" target="_blank" rel="noopener noreferrer">
+            <img src="~/Images/linkedinlogo.png" alt="LinkedIn Logo" class="tech-logo" />
+        </a>
+    </div>
+</div>
+
+<!-- Estilos Adicionales -->
+<style>
+    .tech-logo {
+        width: 100px;
+        height: auto;
+        filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.2));
+        transition: transform 0.3s ease;
+    }
+
+        .tech-logo:hover {
+            transform: scale(1.1);
+        }
+
+    .welcome-section {
+        background: rgba(0, 0, 0, 0.3);
+        padding: 20px;
+        border-radius: 10px;
+    }
+</style>

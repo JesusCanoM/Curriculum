@@ -16,32 +16,40 @@ namespace Portafolio.Services
             {
                 new Project()
                 {
-                    Title = "Chat Application",
-                    Description = "A chap application built with React",
-                    Link   = "https://chat-app-lo.netlify.app/",
-                    ImageURL = "/Images/chatapp.png"
+                    Title = "Punto de venta",
+                    Description = "Sistema de punto de venta creado por laravel y conexion a apis rest .net",
+                    Link   = "https://erp-demo.sofindra.com/",
+                    ImageURL = "/Images/puntoventa.png"
                 },
                  new Project()
                 {
-                    Title = "Weather App",
-                    Description = "A weather app",
-                    Link   = "https://weather-app-lo.netlify.app/",
-                    ImageURL = "/Images/wapp.jpg"
+                    Title = "Pagina landing",
+                    Description = "Pagina landing creada para hacer publicidad a la empresa",
+                    Link   = "https://ainext-usa.com/",
+                    ImageURL = "/Images/ainext.png"
                 },
-                  new Project()
-                {
-                    Title = "Voting system",
-                    Description = "Landing Page for voting system",
-                    Link   = "https://bright-frangollo-7c8e71.netlify.app/",
-                    ImageURL = "/Images/ICON.png"
-                },
-                   new Project()
-                {
-                    Title = "SuperChat",
-                    Description = "Chat app built with Firebase and JavaScript",
-                    Link   = "https://jolly-bardeen-c7c855.netlify.app/",
-                    ImageURL = "/Images/chatapp2.png"
-                }
+                //  new Project()
+                //{
+                //    Title = "Sistema de manejo de presupuestos",
+                //    Description = "Llevear el gasto diario de un negocio o gastos personales",
+                //    Link   = "https://contabilidad.sofindra.com",
+                //    ImageURL = "/Images/ICON.png"
+                //},
+                //   new Project()
+                //{
+                //    Title = "HelpDesk",
+                //    Description = "Sistema de tickets para soporte",
+                //    Link   = "https://jolly-bardeen-c7c855.netlify.app/",
+                //    ImageURL = "/Images/chatapp2.png"
+                //},
+                //    new Project()
+                //{
+                //    Title = "Sistema de extraccion de rutas por txt",
+                //    Description = "Sistea que hace un historial de todas las cotizaciones hechas por un software en especifico",
+                //    Link   = "https://jolly-bardeen-c7c855.netlify.app/",
+                //    ImageURL = "/Images/chatapp2.png"
+                //}
+
             };
         }
     }

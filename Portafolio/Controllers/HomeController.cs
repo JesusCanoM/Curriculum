@@ -21,14 +21,9 @@ namespace Portafolio.Controllers
 
         public IActionResult Index()
         {
-            //var person = new Person()
-            //{
-            //    Name = "Salma Yedid Zaleta Sanchez",
-            //    Age = 22
-            //};
-            //return View(person);.
+           
 
-            var projects = projectsRepository.GetProjects().Take(3).ToList();
+            var projects = projectsRepository.GetProjects().Take(2).ToList();
             var model = new HomeIndexViewModel() { Projects = projects };
             return View(model);
 

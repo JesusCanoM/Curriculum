@@ -16,3 +16,25 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.card {
+    height: 100%; /* Hace que todas las tarjetas tengan la misma altura */
+    display: flex;
+    flex-direction: column;
+}
+
+    .card img {
+        height: 200px; /* Ajusta esto según lo que necesites */
+        object-fit: cover; /* Asegura que la imagen se recorte y se ajuste sin deformarse */
+    }
+
+.card-body {
+    flex-grow: 1; /* Hace que el contenido de la tarjeta ocupe el espacio disponible */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-footer {
+    text-align: center;
+}
